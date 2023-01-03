@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoalKeeper</string>
+    <string name="enter_a_new_goal">Enter a new Goal</string>
+    <string name="add_new_goal">Add New Goal</string>
+    <string name="initial_text">Add personal notes here!</string>
+    <string name="save">Save Note</string>
+    <string name="cancel">Cancel</string>
+</resources>
